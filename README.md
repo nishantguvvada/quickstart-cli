@@ -1,6 +1,6 @@
-# 🛠️ Application Development CLI (AD-CLI)
+# 🛠️ Quickstart CLI
 
-**AD-CLI** is a simple command-line tool that allows you to quickly scaffold a backend (in **Python** or **Node.js**) or a frontend (in **React** or **Next.js**) project with minimal setup.
+**Quickstart CLI** is a simple command-line tool that allows you to quickly scaffold a backend (in **Python** or **Node.js**) or a frontend (in **React** or **Next.js**) project with minimal setup.
 
 ---
 
@@ -9,6 +9,14 @@
 - Quickly initialize a **backend** project using Python (**FastAPI**) or Node.js.
 - Quickly initialize a **frontend** project using React or Next.js.
 - Simple and consistent CLI interface.
+
+---
+
+## 📥Install
+
+```bash
+cargo install quickstart
+```
 
 ---
 

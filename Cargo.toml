@@ -2,6 +2,22 @@
 name = "quickstart"
 version = "0.1.0"
 edition = "2024"
+description = "A CLI to quickly scaffold backend/frontend projects"
+license = "MIT"
+repository = "https://github.com/nishantguvvada/quickstart-cli"
+homepage = "https://github.com/nishantguvvada/quickstart-cli"
+readme = "README.md"
+keywords = [
+    "cli",
+    "project",
+    "full stack",
+    "frontend",
+    "backend",
+    "starter",
+    "quick start",
+    "scaffold",
+]
+categories = ["command-line-utilities", "development-tools"]
 
 [dependencies]
 clap = { version = "4.0", features = ["derive"] }
