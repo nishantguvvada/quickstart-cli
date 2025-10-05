@@ -7,16 +7,7 @@ license = "MIT"
 repository = "https://github.com/nishantguvvada/quickstart-cli"
 homepage = "https://github.com/nishantguvvada/quickstart-cli"
 readme = "README.md"
-keywords = [
-    "cli",
-    "project",
-    "full stack",
-    "frontend",
-    "backend",
-    "starter",
-    "quick start",
-    "scaffold",
-]
+keywords = ["cli", "project", "starter", "quickstart", "scaffold"]
 categories = ["command-line-utilities", "development-tools"]
 
 [dependencies]
