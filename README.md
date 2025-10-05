@@ -1,6 +1,6 @@
-# 🛠️ Quickstart CLI
+# 🛠️ FS-Quickstart CLI
 
-**Quickstart CLI** is a simple command-line tool that allows you to quickly scaffold a backend (in **Python** or **Node.js**) or a frontend (in **React** or **Next.js**) project with minimal setup.
+**FS-Quickstart CLI** is a simple command-line tool that allows you to quickly scaffold a backend (in **Python** or **Node.js**) or a frontend (in **React** or **Next.js**) project with minimal setup.
 
 ---
 
@@ -15,7 +15,7 @@
 ## 📥Install
 
 ```bash
-cargo install quickstart
+cargo install fs-quickstart
 ```
 
 ---
@@ -25,7 +25,7 @@ cargo install quickstart
 ### 🧱 Command Structure
 
 ```bash
-quickstart <PROJECT_NAME> <PROJECT_TYPE> [options]
+fs-quickstart <PROJECT_NAME> <PROJECT_TYPE> [options]
 ```
 
 | Argument       | Description             |
@@ -50,25 +50,25 @@ quickstart <PROJECT_NAME> <PROJECT_TYPE> [options]
 ### 🔧 Create a Python backend with FastAPI
 
 ```bash
-quickstart myapp backend --backend-framework python --fastapi
+fs-quickstart myapp backend --backend-framework python --fastapi
 ```
 
 ### ⚙️ Create a Node.js backend
 
 ```bash
-quickstart myapp backend --backend-framework node
+fs-quickstart myapp backend --backend-framework node
 ```
 
 ### 🎨 Create a React frontend
 
 ```bash
-quickstart myapp frontend --frontend-framework react
+fs-quickstart myapp frontend --frontend-framework react
 ```
 
 ### 🌐 Create a Next.js frontend
 
 ```bash
-quickstart myapp frontend --frontend-framework next
+fs-quickstart myapp frontend --frontend-framework next
 ```
 
 ---

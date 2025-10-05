@@ -1,5 +1,5 @@
 [package]
-name = "quickstart"
+name = "fs-quickstart"
 version = "0.1.0"
 edition = "2024"
 description = "A CLI to quickly scaffold backend/frontend projects"
